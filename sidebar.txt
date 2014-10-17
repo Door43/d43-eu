@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eu:home|Door43 (eu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eu|d43-eu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eu/archive/master.zip|d43-eu.zip]]
+
+**Recent Changes**
+{{changes>ns = eu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eu|Ethnologue data]]
+
